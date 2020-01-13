@@ -1,15 +1,13 @@
 
-
-# Responsive page from TailwindCSS Tuto
-[this is an image](https://imgur.com/x9ZWMSd)
+# Responsive page from TailwindCSS Tutorial
+[![github.png](https://i.postimg.cc/1zpTm6Vc/github.png)](https://postimg.cc/cKLTTvmr)
 ___
-[github.png](https://postimg.cc/cKLTTvmr)
 
-> Subtitle or Short Description Goes Here
+> TailwindCSS
 
-> ideally one sentence
+> Responsive
 
-> include terms/tags that can be searched
+> using the tutorial from the docs
 
 ***
 
